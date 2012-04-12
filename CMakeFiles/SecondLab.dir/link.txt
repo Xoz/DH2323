@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/SecondLab.dir/skeleton.cpp.o  -o SecondLab  /opt/local/lib/libSDLmain.a /opt/local/lib/libSDL.dylib -framework Cocoa 
